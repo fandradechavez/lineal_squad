@@ -1,6 +1,6 @@
 # lineal_squad
 
-Comandos basicos git 
+Comandos basicos git adfads
 
 ## primer clone 
 
